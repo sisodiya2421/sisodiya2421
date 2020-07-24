@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Abhishek and I love coding in Python. I work at [Estylo](https://estylo.in/) as a Python Developer.
+
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on projects that are using Python.
+- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
+- 📫 How to reach me:
+<p align="center">
+	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
