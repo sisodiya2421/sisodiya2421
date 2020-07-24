@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- 📫 How to reach me:
+
+
+### Reach me at:
 <p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" style="padding-right:10px;" /></a>
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" style="padding-right:10px;"/></a>
+	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" style="padding-right:10px;"/></a>
+	<a href="https://dev.to/sisodiya2421/"><img src="https://img.icons8.com/ios-filled/50/000000/devpost.png" alt="Dev" style="padding-right:10px;"/></a>
+	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" style="padding-right:10px;"/></a>
 </p>
