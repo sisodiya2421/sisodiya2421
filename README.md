@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sisodiya2421&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiya2421&theme=radical)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sisodiya2421&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiya2421)
 
 
 ### Reach me at :coffee:
