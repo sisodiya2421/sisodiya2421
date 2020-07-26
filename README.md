@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 
 
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sisodiya2421)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiya2421)
 
 
 ### Reach me at :coffee:
@@ -31,10 +31,4 @@ Here are some ideas to get you started:
 	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-
-<p align="right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
