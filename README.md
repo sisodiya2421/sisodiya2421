@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhishek and I love coding in Python. I work at [Estylo](https://estylo.in/) as a Python Developer.
+I am Abhishek and I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 
 
-### Reach me at:
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sisodiya2421)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Reach me at :coffee:
 <p align="center">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+
+
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
