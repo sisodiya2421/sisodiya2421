@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :musical_note: I love to hear country music.
 
 
-### Reach me at :coffee:
+### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
