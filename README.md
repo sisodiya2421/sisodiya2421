@@ -1,6 +1,6 @@
-### Hi there 👋
+![alt text](./images/top.svg)
 
-I am Abhishek and I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer.
+I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
+- :pencil2: I Write blogs on dev.to on free days.
+- :musical_note: I love to hear country music.
 
 
 ### Reach me at :coffee:
@@ -29,3 +31,5 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+![alt text](./images/bottom.svg)
