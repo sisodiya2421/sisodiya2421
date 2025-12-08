@@ -1,7 +1,7 @@
 ## Hi there, I'm Abhishek Sisodiya 
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="20%" src="https://img.icons8.com/?size=100&id=sm8CzMKNcuhi&format=png&color=000000"/>
 </p>
 
 
